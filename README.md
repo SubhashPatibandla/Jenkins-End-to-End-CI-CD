@@ -98,6 +98,10 @@ http://<ec2-instance-public-ip>:8080/restart
 =======
 # Jenkins-Zero-To-Hero
 
+Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
+
+## Installation on EC2 Instance
+
 YouTube Video ->
 https://www.youtube.com/watch?v=zZfhAXfBvVA&list=RDCMUCnnQ3ybuyFdzvgv2Ky5jnAA&index=1
 
